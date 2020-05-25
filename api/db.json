@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "I created this cresn",
+      "description": "this was made by me!",
+      "userId": "111889599494048241262",
+      "id": 2
+    },
+    {
+      "title": "Me streaming",
+      "description": "Refact new",
+      "id": 4
+    },
+    {
+      "title": "Test title",
+      "description": "Test description",
+      "userId": "111889599494048241262",
+      "id": 5
+    }
+  ]
+}
